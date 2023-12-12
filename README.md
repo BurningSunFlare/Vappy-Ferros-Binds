@@ -1,4 +1,4 @@
-# Vappy-Binds
+# Vappy-Ferros-Binds
 Shows binds and how to use the menu.
 # [Click here for the wiki page!](https://github.com/BurningSunFlare/Vappy-Ferros-Binds/wiki)
 
